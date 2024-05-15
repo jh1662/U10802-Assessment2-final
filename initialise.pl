@@ -1,5 +1,5 @@
 :- consult('symptoms.pl').
-:- consult('currentDiagnosis.pl').
+:- consult('bloodComposition.pl').
 :- consult('diabetiesType.pl').
 :- consult('medicalHistoryRisk.pl').
 
